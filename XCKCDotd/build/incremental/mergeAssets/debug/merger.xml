@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/assets" >
+            <file
+                name="myriad.ttf"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/assets/myriad.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/debug/assets" />
+    </dataSet>
+
+</merger>

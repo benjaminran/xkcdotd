@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transparent_black" type="color">#AA000000</item>
+    <item name="transparent_white" type="color">#AAFFFFFF</item>
+    <item name="transparent_blue" type="color">#5096A8C8</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="blue" type="color">#96A8C8</item>
+</resources>

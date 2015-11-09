@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="loading_logo_width">300dp</dimen>
+    <dimen name="loading_logo_height">300dp</dimen>
+    <dimen name="loading_logo_background_width">252dp</dimen>
+    <dimen name="loading_status_padding">8dp</dimen>
+    <dimen name="loading_progress_height">8dp</dimen>
+</resources>

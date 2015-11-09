@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_bg1"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_bg1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_bg2"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_bg2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_bg3"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_bg3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_bg4"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_bg4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_bg5"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_bg5.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="loading_logo"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-hdpi/loading_logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_loading"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/layout/activity_loading.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading"
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/menu/loading.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <item
+                    name="blue"
+                    type="color">
+#96A8C8
+                </item>
+                <item
+                    name="white"
+                    type="color">
+#FFFFFF
+                </item>
+                <item
+                    name="transparent_blue"
+                    type="color">
+#5096A8C8
+                </item>
+                <item
+                    name="transparent_white"
+                    type="color">
+#AAFFFFFF
+                </item>
+                <item
+                    name="transparent_black"
+                    type="color">
+#AA000000
+                </item>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="loading_logo_height" >300dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="loading_logo_background_width" >252dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="loading_status_padding" >8dp
+                </dimen>
+                <dimen name="loading_logo_width" >300dp
+                </dimen>
+                <dimen name="loading_progress_height" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >XKCDotd
+                </string>
+                <string name="loading" >Activating XKCDotd…
+                </string>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                </style>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+                    <item name="android:windowActionBar">
+false
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:windowActionBar">
+false
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/beni/Downloads/XCKCDotdProject/XCKCDotd/src/debug/res" />
+    </dataSet>
+
+</merger>
